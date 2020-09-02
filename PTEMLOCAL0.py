@@ -22,7 +22,7 @@ def pxxobterlocal():
         
         
     else:
-        print('Não foi possivel obter a localização')
+        print('Não foi possivel obter a localização') 
 
 #_________________________________
 def pxximplocalizacao(localizacao):
